@@ -6,40 +6,60 @@
             "items" : [
      
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
-                },
-                {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
-                },
-                {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
+                    "icon": "images/skills/typescript.png",
+                    "title": "TypeScript"
                 },
                 {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "MongoDB"
+                },
+                {
+                    "icon": "images/skills/postgresql.png",
+                    "title": "Postgres"
                 }
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
-                {
                     "icon": "images/skills/react.png",
                     "title": "React"
                 },
                 {
+                    "icon": "images/skills/nextjs.png",
+                    "title": "NextJS"
+                },
+                {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/three-js.png",
+                    "title": "ThreeJS"
+                },
+                {
+                    "icon": "images/skills/playcanvas.png",
+                    "title": "PlayCanvas"
+                },
+                {
+                    "icon": "images/skills/cocos.png",
+                    "title": "Cocos Creator"
+                },
+                {
+                    "icon": "images/skills/web3js.png",
+                    "title": "Web3JS"
                 }
             ]
         },
@@ -47,16 +67,16 @@
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
-                },
-                {
                     "icon": "images/skills/git.png",
                     "title": "Git"
                 },
                 {
                     "icon": "images/skills/docker.png",
                     "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/android-studio.png",
+                    "title": "Android Studio"
                 }
             ]
     }

@@ -1,0 +1,99 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/coupon-rain.png",
+            "title": "Coupon Rain",
+            "bodyText": "- Game similar to Fruit Ninja developed for Flipkart.\n - Uses **Cocos Creator** and **TypeScript**.",
+            "links": [
+                
+            ],
+            "tags" : [
+                "TypeScript",
+                "Cocos Creator"
+            ]
+        },
+        {
+            "image" : "images/projects/hallowscream.png",
+            "title": "Hallowscream",
+            "bodyText": "- A kids game developed for Nickelodean.\n - Uses **Cocos Creator** and **TypeScript**.",
+            "links": [
+
+            ],
+            "tags" : [
+                "TypeScript",
+                "Cocos Creator"
+            ]
+        },
+        {
+            "image": "images/projects/purpose-run.png",
+            "title": "Purpose Run",
+            "bodyText": "- A web game developed for Infosys.\n - Uses **PlayCanvas** and **JavaScript**.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://www.the-next-opportunity.com/purposerun/"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "PlayCanvas",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "title": "Free Fall",
+            "bodyText": "- A game developed for Flipkart.\n - Uses **Cocos Creator** and **TypeScript**.\n",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://dl.flipkart.com/games/gamehome?campaignId=SP-yQNAa-1727963883293"
+                }
+            ],
+            "tags" : [
+                "TypeScript",
+                "Cocos Creator"
+            ]
+        },
+        {
+            "title": "Metaverse",
+            "bodyText": "- A web game developed for Juego Studios.\n - Uses **ThreeJS** and **React**.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://d1e6suakok3fr.cloudfront.net/index.html?socketurl=https://juegostudio.com&apiurl=https://juegostudio.com/juego-metaverse-backend/api/"
+                }
+            ],
+            "tags" : [
+                "TypeScript",
+                "ThreeJS",
+                "React",
+                "HTML/CSS"
+            ]
+        },
+        {
+            "title": "Expense Tracker",
+            "bodyText": "- A simple expense tracker app",
+            "links": [
+
+            ],
+            "tags" : [
+                "TypeScript",
+                "React",
+                "JavaScript",
+                "Material UI"
+            ]
+        },
+        {
+            "title": "Device management",
+            "bodyText": "- A Web App for managing devices available for testing.",
+            "links": [
+                
+            ],
+            "tags" : [
+                "React",
+                "TypeScript"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "education":[
+        {
+            "title": "Aug 2016 - Aug 2020",
+            "cardTitle": "B.Tech, Information Science",
+            "cardSubtitle":"Sahyadri College of Engineering",
+            "cardDetailedText": "CGPA - 8",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        }
+    ]
+}

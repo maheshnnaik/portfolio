@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/maheshnnaik"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/maheshnnaik"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:maheshnaik2747@gmail.com"
+        }
+    ]
+}

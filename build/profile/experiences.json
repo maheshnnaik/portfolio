@@ -1,0 +1,46 @@
+{
+    "experiences": [
+        {
+            "title": "Senior Software Engineer",
+            "subtitle": "Juego Studios",
+            "workType": "Full-time",
+            "workDescription": [
+                "Supervised and mentored junior team members to achieve high performance and meet goals.",
+                "Spearheaded the optimization of existing web games and frontend apps resulting in a 20% - 30% reduction in page load times and a more seamless user experience in low end devices."
+            ],
+            "dateText": "01/2024 – Present"
+        },
+        {
+            "title": "Software Engineer II",
+            "subtitle": "Juego Studios",
+            "workType": "Full-time",
+            "workDescription": [
+                "Collaborated with cross-functional teams to implement and enhance features, ensuring a cohesive and user-friendly product.",
+                "Implemented various frontend solutions such as an NFT Marketplace, Admin Portal, and others using React, Redux, Material UI and other frontend tools.",
+                "Demonstrated expertise in blockchain smart contract development, successfully deploying and managing smart contracts on major blockchain platforms."
+
+            ],
+            "dateText": "01/2023 – 01/2024"
+        },
+        {
+            "title": "Software Engineer I",
+            "subtitle": "Juego Studios",
+            "workType": "Full-time",
+            "workDescription": [
+                "Played a key role in the development of web games, contributing to the implementation of core features and functionalities.",
+                "Assisted in the optimization of web games, focusing on improving performance and addressing user feedback."
+            ],
+            "dateText": "01/2021 – 01/2023"
+        },
+        {
+            "title": "Software Engineer Intern",
+            "subtitle": "Juego Studios",
+            "workType": "Internship",
+            "workDescription": [
+                "Development and understanding web based engines like Cocos Creator, Playcanvas, Cocos 2d, PhaserJS.",
+                "Understanding of web and opengl."
+            ],
+            "dateText": "09/2020 – 01/2021"
+        }
+    ]
+}

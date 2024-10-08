@@ -3,7 +3,7 @@
         {
             "image" : "images/projects/coupon-rain.png",
             "title": "Coupon Rain",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "bodyText": "- Game similar to Fruit Ninja developed for Flipkart.\n - Uses **Cocos Creator** and **TypeScript**.",
             "links": [
                 
             ],
@@ -15,7 +15,7 @@
         {
             "image" : "images/projects/hallowscream.png",
             "title": "Hallowscream",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "bodyText": "- A kids game developed for Nickelodean.\n - Uses **Cocos Creator** and **TypeScript**.",
             "links": [
 
             ],
@@ -27,7 +27,7 @@
         {
             "image": "images/projects/purpose-run.png",
             "title": "Purpose Run",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "bodyText": "- A web game developed for Infosys.\n - Uses **PlayCanvas** and **JavaScript**.",
             "links": [
                 {
                     "text": "Live",
@@ -43,7 +43,7 @@
         },
         {
             "title": "Free Fall",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "bodyText": "- A game developed for Flipkart.\n - Uses **Cocos Creator** and **TypeScript**.\n",
             "links": [
                 {
                     "text": "Live",
@@ -57,7 +57,7 @@
         },
         {
             "title": "Metaverse",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
+            "bodyText": "- A web game developed for Juego Studios.\n - Uses **ThreeJS** and **React**.",
             "links": [
                 {
                     "text": "Live",
@@ -73,33 +73,26 @@
         },
         {
             "title": "Expense Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
+            "bodyText": "- A simple expense tracker app",
             "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
+
             ],
             "tags" : [
                 "TypeScript",
-                "Angular 12",
-                "JavaScript"
+                "React",
+                "JavaScript",
+                "Material UI"
             ]
         },
         {
             "title": "Device management",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "bodyText": "- A Web App for managing devices available for testing.",
             "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
-                }
+                
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "React",
+                "TypeScript"
             ]
         }
     ]

@@ -2,7 +2,7 @@
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://linkedin.com/maheshnnaik"
+            "href": "https://www.linkedin.com/in/maheshnnaik/"
         },
         {
             "network" : "github",
@@ -11,6 +11,10 @@
         {
             "network" : "email",
             "href": "mailto:maheshnaik2747@gmail.com"
+        },
+        {
+            "network" : "instagram",
+            "href": "https://www.instagram.com/maheshnaik07/"
         }
     ]
 }
